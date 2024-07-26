@@ -4,6 +4,7 @@
     "@mui/icons-material": "^5.16.4",
     "@mui/material": "^5.16.4",
     "@reduxjs/toolkit": "^2.2.6",
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "formik": "^2.4.6",
     "mongodb": "^6.8.0",
